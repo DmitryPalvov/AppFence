@@ -172,15 +172,12 @@ This repo participates in **Hacktoberfest**! Look for issues tagged [`hacktoberf
 
 Please follow Kotlin coding conventions and the existing MVVM structure.
 
-## 💡 Inspiration
-
-Functionally inspired by the excellent open-source [NetGuard](https://github.com/M66B/NetGuard) app by M66B, reimagined with a modern Compose-based UI and simplified architecture.
-
 ## 📄 License
 
-This project is open-source. See the [LICENSE](LICENSE) file for details.
+AppFence is released under the **GNU General Public License v3.0**.
+See the [LICENSE](LICENSE) file for the full text.
 
-Not affiliated with or derived from NetGuard.
+> In short: you are free to use, modify, and distribute this software — but any derivative work must also be open-source under GPL-3.0.
 
 ---
 
