@@ -1,0 +1,30 @@
+# Claude Code
+.claude/
+
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# ProGuard
+*.pro
+!app/proguard-rules.pro
+
+# APK / AAB outputs
+*.apk
+*.aab
