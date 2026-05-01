@@ -1,11 +1,8 @@
 {
-  "name": "AppFence Design System Generator",
-  "id": "appfence.designsystem.generator",
+  "name": "AppFence Design System",
+  "id": "appfence-design-system-001",
   "api": "1.0.0",
-  "main": "code.js",
-  "editorType": ["figma"],
-  "documentAccess": "dynamic-page",
-  "networkAccess": {
-    "allowedDomains": ["none"]
-  }
+  "main": "dist/code.js",
+  "ui": "src/ui.html",
+  "editorType": ["figma"]
 }
